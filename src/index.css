@@ -3,6 +3,7 @@
 
 @theme {
   --color-addnew: rgba(56, 58, 72, 0.6);
+  --color-fontcolor: rgba(56, 58, 72, 0.6);
 
   --breakpoint-mb: 375px;
   --breakpoint-tb: 768px;
