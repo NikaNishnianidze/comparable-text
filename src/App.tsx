@@ -1,5 +1,11 @@
+import HeaderMenu from "./components/HeaderMenu";
+
 function App() {
-  return <></>;
+  return (
+    <div className="flex flex-col">
+      <HeaderMenu />
+    </div>
+  );
 }
 
 export default App;

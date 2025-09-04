@@ -4,6 +4,7 @@
 @theme {
   --breakpoint-mb: 375px;
   --breakpoint-tb: 768px;
+  --breakpoint-lp: 1024px;
   --breakpoint-dk: 1440px;
 }
 
