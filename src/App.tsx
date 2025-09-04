@@ -4,10 +4,12 @@ import TextOptions from "./components/TextOptions";
 
 function App() {
   return (
-    <div className="flex flex-col">
+    <div className="mb:flex mb:flex-col tb:flex tb:flex-col lp:flex lp:flex-row">
       <HeaderMenu />
-      <CompareTextCond />
-      <TextOptions />
+      <div className="w-full">
+        <CompareTextCond />
+        <TextOptions />
+      </div>
     </div>
   );
 }
