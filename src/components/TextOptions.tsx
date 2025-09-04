@@ -50,7 +50,7 @@ export default function TextOptions() {
           </p>
         </div>
       </div>
-      <div className="divider mb:w-[80%] mt-[16px] tb:w-[80%] lp:w-[80%] dk:w-[80%] h-[1px] bg-[#EDEDED]"></div>
+      <div className="divider mb:w-[288px] mt-[16px] tb:w-[712px] lp:w-[736px] dk:w-[1136px] h-[1px] bg-[#EDEDED]"></div>
       {languageModal && (
         <div className="absolute flex flex-col gap-[14px] mb:top-48 mb:w-[288px] tb:w-[155px] tb:left-7 tb:top-50 lp:left-66 lp:top-18 py-[16px] px-[12px] bg-[#FFF] rounded-[8px] border-[1px] border-[#4571E4]">
           <div
