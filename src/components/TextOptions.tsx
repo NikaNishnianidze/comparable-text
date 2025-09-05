@@ -11,7 +11,7 @@ export default function TextOptions() {
   const handleNew = () => {
     setLeftText("");
     setRightText("");
-    setDiffHtml("");
+    setDiffHtml(null);
   };
   return (
     <div className="flex flex-col items-center">
